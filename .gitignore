@@ -1,0 +1,8 @@
+# ignore git plugin
+.obsidian/plugins/obsidian-git/*
+
+# ignore minimal settings plugin
+.obsidian/plugins/obsidian-minimal-settings/*
+
+# Ignore theme
+.obsidian/themes/Minimal/*
